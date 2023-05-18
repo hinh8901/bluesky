@@ -1,0 +1,13 @@
+:root {
+  --black: #111111;
+  --darkGray: #515d66;
+  --gray: #555555;
+  --lightgray: #999999;
+  --white: #ffffff;
+  --brown: #9c6d3a;
+  --cyan: #177983;
+  --lightCyan: #8d979e;
+  --borderColor: #ebebeb;
+  --primaryBg: #f5f5f5;
+  --lightGrayOpacity: #444444fa;
+}
